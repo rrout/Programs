@@ -1,2 +1,2 @@
 # Programs
-Misc Programs foe development
+Misc Programs for development
